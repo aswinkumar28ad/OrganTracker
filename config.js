@@ -58,7 +58,7 @@
  * @type {string}
  * @example "0xAbCdEf0123456789AbCdEf0123456789AbCdEf01"
  */
-const CONTRACT_ADDRESS = "0x18Fa5B67629271501a6282e6EBa9365244d19fc8"; // ← paste your deployed address here
+const CONTRACT_ADDRESS = "0x97e8512186bf6C9901191930F040CBc8676713A9"; // ← paste your deployed address here
 
 // =============================================================================
 // 2.  NETWORK — Sepolia Testnet
